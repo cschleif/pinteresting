@@ -1,5 +1,5 @@
 # First Rails Project
 
-First Pinteresting ample application 
+First pinteresting sample application 
 
 by Cody Schleif
