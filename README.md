@@ -1,6 +1,5 @@
-# One Month Rails
+# First Rails Project
 
-This is the pinteresting sample application for
-[*One Month Rails*](http://onemonthrails.com)
+First Pinteresting ample application 
 
 by Cody Schleif
